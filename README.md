@@ -21,7 +21,8 @@ Simple and clean design
 Basic responsive layout
 
 📂 Project Structure
+
 portfolio/
- index.html
- style.css
+ index.html, 
+ style.css, 
  README.md
