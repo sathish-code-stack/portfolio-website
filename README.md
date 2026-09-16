@@ -11,6 +11,7 @@ This is a simple and clean personal portfolio website built from scratch. The ma
 🛠️ Technologies Used
 HTML5 – Used to create the structure and content of the website.
 CSS3 – Used for basic styling, layout, colors, spacing, and overall appearance.
+
 📌 Features
 About Me section
 Skills section
@@ -18,9 +19,9 @@ Projects section
 Contact section
 Simple and clean design
 Basic responsive layout
+
 📂 Project Structure
 portfolio/
-│
-├── index.html
-├── style.css
-└── README.md
+ index.html
+ style.css
+ README.md
